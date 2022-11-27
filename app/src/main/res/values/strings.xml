@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora Basica</string>
+    <string name="Title">Calculadora Básica</string>
+    <string name="num1">1er Dato</string>
+    <string name="num2">2do Dato</string>
+    <string name="result"> -- </string>
+    <string name="suma">SUMA</string>
+    <string name="resta">RESTA</string>
+    <string name="mult">MULTIPLICACIÓN</string>
+    <string name="division">DIVISIÓN</string>
+    <string name="Data">Leonardo Hernández Morales - 24/11/22</string>
+    <string name="Limpia">LIMPIAR</string>
+</resources>
